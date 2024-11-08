@@ -38,3 +38,18 @@ A simple, secure, and modern PHP login system with user registration and authent
 ```bash
 git clone https://github.com/layak90/php-login-system.git
 cd php-login-system
+
+📱 Responsive Design
+The login system is fully responsive and works on:
+
+Desktop browsers
+Tablets
+Mobile devices
+
+🧪 Testing
+
+User Registration
+Open the login page
+Click "Register"
+Enter username and password
+Submit the form
